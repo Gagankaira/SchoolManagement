@@ -1,5 +1,5 @@
 # SchoolManagement
-Advice career guidelines to students and parents based on student  performance in academics ,sports and other activities
+The theme of the project is to advice career guidelines to students and parents,based on student  performance in academics ,sports and other activities the student snd respective parent will be given advice to choose career path in further.Where a student can explore his/her mind in whichever domain they are interested.
 
 
 #include <iostream>
